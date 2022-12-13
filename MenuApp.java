@@ -2,7 +2,7 @@ package projetcs;
 
 import java.util.Scanner;
 
-public class ProjectCh3App {
+public class MenuApp {
 
     final static Scanner in = new Scanner(System.in);
 

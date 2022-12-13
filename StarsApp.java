@@ -2,7 +2,7 @@ package projetcs;
 
 import java.util.Scanner;
 
-public class ProjectCh5App {
+public class StarsApp {
     final static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
